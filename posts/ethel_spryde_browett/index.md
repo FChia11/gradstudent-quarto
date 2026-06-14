@@ -1,0 +1,26 @@
+---
+categories:
+- GB
+featured: true
+image: featured.png
+projects: []
+subtitle: "Improvements in Abdominal Belts."
+summary: ""
+tags:
+- Other Consumer Goods
+- Austria
+- AU 
+application_date: 1895-11-29
+issuance_date: 1896-08-08
+initial: E
+title: "Ethel Spryde Browett, GB189522833A"
+---
+On August 8, 1896, Ethel Spryde Browett, a resident of Coventry, United Kingdom, was awarded a patent for developing a novel belt that was easily adjustable due to the presence of straps at either end. The belt was specifically designed to be attached to a corset and could be loosened with minimal effort.   
+
+Date of Application: 29 November 1895 
+
+Date of Issuance: 8 August 1896
+
+For more information, please refer to the following webpage: 
+
+- [Espacenet](https://worldwide.espacenet.com/patent/search/family/032528031/publication/GB189522833A?q=pn%3DGB189522833A)

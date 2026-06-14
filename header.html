@@ -1,0 +1,115 @@
+<!-- Particles.js -->
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const container = document.querySelector(".about-entity");
+  if (!container) return;
+
+  // create particles layer
+  const particles = document.createElement("div");
+  particles.id = "particles-js";
+  container.prepend(particles);
+
+  // init particles
+  particlesJS("particles-js", {
+    particles: {
+      number: { value: 100 },
+
+      color: { value: "#228B22" },   // forest green
+
+      shape: { type: "circle" },
+
+      opacity: {
+        value: 0.35
+      },
+
+      size: {
+        value: 3.5   // bigger particles
+      },
+
+      line_linked: {
+        enable: true,
+        color: "#228B22",
+        opacity: 0.2
+      },
+
+      move: {
+        enable: true,
+        speed: 0.8
+      }
+    },
+
+    interactivity: {
+      events: {
+        onhover: {
+          enable: true,
+          mode: "repulse"
+        }
+      }
+    }
+  });
+});
+</script>
+
+<!-- Google Font (if not already in your scss) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- News -->
+<script>
+function toggleNews() {
+  const el = document.getElementById("older-news");
+  const link = document.querySelector(".news-toggle");
+
+  if (el.style.display === "none" || el.style.display === "") {
+    el.style.display = "block";
+    link.textContent = "hide earlier entries";
+  } else {
+    el.style.display = "none";
+    link.textContent = "show earlier entries";
+  }
+}
+</script>
+
+<!-- Fontawesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+<!-- Alphabet for Mosaic -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const items = document.querySelectorAll(".quarto-grid-item");
+
+  const nav = document.createElement("div");
+  nav.className = "alphabet-nav";
+
+  const letters = new Set();
+
+  items.forEach(item => {
+    const title = item.querySelector("h3")?.innerText || "";
+    const letter = title.trim().charAt(0).toUpperCase();
+    letters.add(letter);
+
+    item.setAttribute("data-letter", letter);
+  });
+
+  Array.from(letters).sort().forEach(letter => {
+    const a = document.createElement("a");
+    a.href = "#" + letter;
+    a.innerText = letter;
+
+    a.onclick = (e) => {
+      e.preventDefault();
+      const target = document.querySelector(`[data-letter="${letter}"]`);
+      if (target) {
+        target.scrollIntoView({ behavior: "smooth" });
+      }
+    };
+
+    nav.appendChild(a);
+  });
+
+  document.body.appendChild(nav);
+});
+</script>

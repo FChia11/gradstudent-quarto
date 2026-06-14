@@ -1,0 +1,177 @@
+---
+title: "Research"
+---
+
+<style>
+.section-cmd {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.80rem;
+  color: #aaa;
+  letter-spacing: 0.08em;
+  margin: 3rem 0 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e4e4e4;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.section-cmd .ps { color: #2c511f; }
+.pub-list { display: flex; flex-direction: column; }
+.pub-item {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 0 1.25rem;
+  padding: 10px 0;
+  border-bottom: 1px solid #f0f0f0;
+  align-items: baseline;
+}
+.pub-item:first-child { border-top: 1px solid #f0f0f0; }
+.pub-status {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem;
+  color: #888;
+  letter-spacing: 0.03em;
+  padding-top: 1px;
+  white-space: nowrap;
+  line-height: 1.65;
+}
+.pub-body {
+  font-size: 0.85rem;
+  font-weight: 300;
+  color: #333;
+  line-height: 1.65;
+}
+.pub-body a {
+  color: #111;
+  text-decoration: underline;
+  text-decoration-color: #e0e0e0;
+  text-underline-offset: 2px;
+}
+.pub-body a:hover { color: #2c511f; text-decoration-color: #2c511f; }
+.pub-venue {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.67rem;
+  color: #777;
+  display: block;
+  margin-top: 2px;
+}
+.pub-award {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  color: #ff6700;
+  display: block;
+  margin-top: 3px;
+  letter-spacing: 0.02em;
+}
+.pub-pres {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  color: #2c511f;
+  display: block;
+  margin-top: 3px;
+  letter-spacing: 0.02em;
+}
+.pub-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 6px;
+}
+.pub-tag {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  color: #888;
+  border: 1px solid #ddd;
+  padding: 1px 6px;
+  border-radius: 2px;
+  letter-spacing: 0.03em;
+}
+.pub-link {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.04em;
+  padding: 2px 10px;
+  border-radius: 2px;
+  text-decoration: none !important;
+  transition: all 0.12s;
+}
+.pub-link.paper { background: #111; color: #fff !important; }
+.pub-link.paper:hover { background: #2c511f; }
+.pub-link.code { border: 1px solid #2c511f; color: #2c511f !important; }
+.pub-link.code:hover { background: #2c511f; color: #fff !important; }
+.pub-flag {
+  display: inline-block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.62rem;
+  color: #2c511f;
+  border: 1px solid #bbf7d0;
+  padding: 1px 5px;
+  border-radius: 2px;
+  margin-right: 4px;
+  letter-spacing: 0.05em;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+}
+.me { font-weight: 500; color: #111; }
+</style>
+
+My research focuses on intellectual property, innovation economics, and wine patents, with a focus on computational and NLP methods for measuring technological change over time.
+
+---
+
+<div class="section-cmd"><span class="ps"></span> Working Papers</div>
+<div class="pub-list">
+<div class="pub-item">
+<div class="pub-status">Submitted</div>
+<div class="pub-body"><span class="pub-flag">Featured</span><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6448334" target="_blank">Patent Fees and Legal Status among SMEs: Evidence from the America Invents Act</a><span><span class="pub-venue"><span class="me">Chiaradia, F. </span> &nbsp;·&nbsp;Available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6448334" target="_blank">SSRN</a>.</span><span class="pub-award">🏅 RES Scholar '25, Birmingham, UK; EPIP '25 Mention of Distinction, Antwerp, BE.</span></span><span class="pub-pres"> Presented: EWMES '25; Brown Bag Seminar, University of St Andrews; EPIP 2025; AsLEA 2025; RES 2025; Fife Applied Microeconomics and Golf Conference; St Andrews Applied Microeconomics Meeting; SES 2025; 3rd Essex PhD Economics Conference; RGS Doctoral Conference in Economics; SGPE 2025; RES PhD Conference 2024.</span><div class="pub-row"><span class="pub-tag">Patent Fees</span> <span class="pub-tag">Legal Status</span> <span class="pub-tag">Patent Quality</span> <span class="pub-tag">America Invents Act</span></div>
+<div class="pub-row"><a href="https://ssrn.com/abstract=6648334" class="pub-link paper" target="_blank">Paper</a></div>
+<div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Patenting at the United States Patent and Trademark Office has traditionally been dominated by large entities. In an effort to mitigate this disparity, Congress recently introduced reforms aimed at lowering patenting costs for small businesses. Although these measures appear beneficial, they remain contested: existing studies indicate that fee reductions can raise filing volumes while diminishing patent quality. Importantly, this critique is derived almost exclusively from analyses of large firms, leaving evidence on the implications for smaller businesses scarce and qualitative in nature. This paper attempts to fill this gap by examining the impact of lower fees on smaller inventors. In March 2013, the America Invents Act introduced a new fee discount for micro entities. Using small firms as controls, I use a weighted difference-in-difference design to verify whether lower fees affected the outcome and quality of applications filed by the treated group. The evidence shows that, post-reform, micro entities significantly reduced the quality of their applications and were 37.4-percentage-point less likely to be granted a patent. While effects are stable across individual characteristics, large universities and private firms were worst affected by the provision. The impact is persistent and spills over to patent continuation, pointing to important consequences for strategic patenting. By retrospectively examining the effects of lower fees on micro entities, this research aims to draw practical implications for the design of future statutory fees.</div></details></div>
+<div class="pub-row"><details><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Cite (APA)</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#f9f9f9;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Chiaradia, F. (2026). "Patent Fees and Legal Status among SMEs: Evidence from the America Invents Act." Available at SSRN: https://ssrn.com/abstract=6448334 or https://dx.doi.org/10.2139/ssrn.6448334.</div></details></div></div>
+</div>
+</div>
+
+<div class="pub-list">
+<div class="pub-item">
+<div class="pub-status">First Draft</div>
+<div class="pub-body"></span>Persuasion and Norm Peristence<span><span class="pub-venue"><span class="me">Chiaradia, F. </span> &nbsp;·&nbsp;Available upon request.</span><span class="pub-pres"> Presented: Rethinking Economic Theory International Workshop, Athens, GR; Brown Bag Seminar, St Andrews, UK; GAMES 2024, Beijing, CN; RES Annual Conference 2024, Belfast, UK; PhD Presentation and Networking, The Alan Turing Institute, London, UK; 2024 SGPE Conference, Crieff, UK.</span><div class="pub-row"><span class="pub-tag">Information Design</span> <span class="pub-tag">Optimal Certification</span> <span class="pub-tag">Evolutionary Games</span> <span class="pub-tag">Social Norms</span></div>
+<div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">I study a dynamic information design problem à la Albano and Lizzeri (2001) in which a regulator can disclose unobserved quality information as the norms of a population evolve. Under moral hazard, the regulator sets a pass/fail standard ex-ante. A monopolist chooses a price to sell an asset to a population of consumers. Over time, consumers’ purchase decision depends on the signal, others’ buying behaviour, and norm evolution. In this paper, I use evolutionary game theory to describe the tension between quality certification and norm persistence.</div></details></div></div>
+</div>
+</div>
+
+<div class="section-cmd"><span class="ps"></span> Publications</div>
+<div class="pub-list">
+<div class="pub-item">
+<div class="pub-status">2026</div>
+<div class="pub-body"><a href="https://doi.org/10.1017/jwe.2025.10102" target="_blank">Measuring Technological Similarity in the Wine Industry</a><span><span class="pub-venue"><span class="me">Chiaradia, F.</span> &nbsp;·&nbsp; Journal of Wine Economics.</span><span class="pub-pres"> Presented: 17th Annual Conference of the American Association of Wine Economists.</span><div class="pub-row"><span class="pub-tag">RAG</span> <span class="pub-tag">Sentence Embeddings</span> <span class="pub-tag">Wine Patents</span> <span class="pub-tag">NLP</span> <span class="pub-tag">Technological Similarity</span></div>
+<div class="pub-row"><a href="https://www.cambridge.org/core/journals/journal-of-wine-economics/article/measuring-technological-similarity-in-the-wine-industry/5E842C425BBC75E27C8B2988AE7AE484" class="pub-link paper" target="_blank">Paper</a></div>
+<div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Technological similarity enables wine operators to share best practices, benchmark against industry standards, and identify new areas of innovation. Despite this, measuring similarity is notoriously challenging. In this paper, I use sentence embeddings on wine patent data to show how similarity compares across different models. I validate the results both internally and externally, showing large discrepancies in annual trends. The results underscore the importance of selecting suitable models for market assessment, providing a valuable primer for both wine operators and technologists.</div></details></div>
+<div class="pub-row"><details><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Cite (APA)</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#f9f9f9;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Chiaradia, F. (2026). "Measuring Technological Similarity in the Wine Industry". <em>Journal of Wine Economics</em>, pp. 1–28. doi:10.1017/jwe.2025.10102.</div></details></div></div>
+</div>
+</div>
+
+<div class="section-cmd"><span class="ps"></span> Work in Progress</div>
+<div class="pub-list">
+<div class="pub-item">
+<div class="pub-status">2026</div>
+<div class="pub-body">How Did Marriage Shape Invention? Evidence from the Victorian Era<span class="pub-venue"><span class="me">Chiaradia, F. </span> &nbsp;·&nbsp;Ongoing data collection.</span></span></span><div class="pub-row"><span class="pub-tag">Women Patentees</span> <span class="pub-tag">Long-Run Innovation</span> <span class="pub-tag">Patent Data</span> <span class="pub-tag">Victorian Era</span></div>
+<div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">I combine hand-coded data from patent applications with the English Parish records to study how invention by women patentees changed as a result of their marital status. This question holds significance for two key reasons. First, as reflected in their patenting activity, women made a small but meaningful contribution to the innovation ecosystem. Second, examining the determinants and consequences of women’s inventive activity sheds light on the social and institutional constraints shaping innovation outcomes. While preliminary, the evidence suggests that marriage enhanced women’s innovative capacity, particularly in the domain of domestic economy. Yet, there is little evidence that these technologies were subsequently commercialised, casting doubts about their ability to secure patent proceeds and translate this activity into major financial gains.</div></details></div></div>
+</div>
+</div>
+
+<div class="pub-list">
+<div class="pub-item">
+<div class="pub-status">2024</div>
+<div class="pub-body">Evolution in the Wine Industry: A Patent Mining Approach<span class="pub-venue"><span class="me">Chiaradia, F. </span> &nbsp;·&nbsp;Available upon request.</span></span></span><span class="pub-award">🏅 Top Three Presentations at AAWE '24.</span><span class="pub-pres"> Presented: 16th Annual Conference of the American Association of Wine Economists.</span><div class="pub-row"><span class="pub-tag">Wine Patents</span> <span class="pub-tag">Wine Technology</span> <span class="pub-tag">Patent Mining</span> <span class="pub-tag">NLP</span> <span class="pub-tag">Breakthrough Innovation</span></div>
+<div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Using public data on patents published between 1893 and 2023, I study how the wine industry has evolved over time. Throughout, I leverage textual analysis to build an index of patent quality and use it to evaluate breakthrough innovations. The results show that radical inventions largely came from mechanical engineering between 1890 and 1940, while chemistry and biotechnology dominated in the post-war years; a growing interest in marketing and consumer technologies has been leading the index since the early 1990s. I conclude by noting that looking at wine through the lenses of patent data may provide a richer sense of context and an improved understanding of current industry trends.</div></details></div></div>
+</div>
+</div>
+
+<div class="pub-list">
+<div class="pub-item">
+<div class="pub-status">2023</div>
+<div class="pub-body">Does Trademark Law Affect Opposability? Evidence from Europe<span class="pub-venue"><span class="me">Chiaradia, F. </span> &nbsp;·&nbsp;Data collection completed.</span></span></span><span class="pub-pres"> Presented: EPIP 2024.</span><div class="pub-row"><span class="pub-tag">Trademark Law</span> <span class="pub-tag">Opposition Proceedings</span> <span class="pub-tag">EUTMR</span> <span class="pub-tag">Conventional Marks</span> <span class="pub-tag">Non-Conventional Marks</span></div>
+<div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">I study the effects of trademark law on opposability proceedings within the European Union. Using a difference-in-differences design, I exploit the exogenous variation generated by Regulation (EU) 2017/1001 (EUTMR), which introduced a new framework for the protection of non-conventional trademarks. In particular, Article 4 abolished the graphical representation requirement that had governed trademark registration since the first directive in 1988. Prior to the reform, non-conventional marks could acquire protection only if they were visually perceptible. Comparing opposability outcomes for conventional marks (control group) and non-conventional marks (treatment group), I find that the reform had no significant effect on the likelihood of refusal. The results are robust across applicant and examiner characteristics, suggesting that the legal change may nonetheless open opportunities for new forms of intellectual property.</div></details></div></div>
+</div>
+</div>

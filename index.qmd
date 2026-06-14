@@ -1,0 +1,99 @@
+---
+title: "Francesca Chiaradia"
+pagetitle: "Francesca Chiaradia"
+subtitle: |
+  Ph.D. Candidate in Economics<br>University of St Andrews
+image: assets/images/avatar.jpg
+page-layout: full
+grid:
+      body-width: 1400px
+
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/f-chiaradia/
+    - icon: github
+      href: https://github.com/FChia11
+    - icon: bluesky
+      href: https://bsky.app/profile/francescachiaradia.bsky.social
+    - icon: mortarboard
+      href: https://scholar.google.com/citations?hl=it&user=2gIBAbcAAAAJ
+    - icon: universal-access
+      href: accessibility.html
+
+from: markdown+emoji
+comments: false
+
+execute:
+  freeze: false
+  echo: false
+  warning: false
+---
+<style>
+.jm-dot {
+width: 7px;
+height: 7px;
+border-radius: 50%;
+background: #16a34a;
+animation: jm-pulse 2s ease-in-out infinite;
+flex-shrink: 0;
+}
+@keyframes jm-pulse {
+0%, 100% { opacity: 1; }
+50% { opacity: 0.3; }
+}
+.jm-bar a {
+color: #15803d;
+font-weight: 500;
+text-decoration: underline;
+text-decoration-color: #86efac;
+text-underline-offset: 2px;
+}
+.jm-bar a:hover { color: #166534; text-decoration-color: #16a34a; }
+</style>
+
+<div class="prompt-line"><span class="ps1">fc73</span>@<span class="host">st-andrews.ac.uk</span><span class="cursor"></span></div>
+
+<div class="prompt-line">
+  Innovation <i class="fas fa-lightbulb"></i>
+  &nbsp;·&nbsp;
+  Behaviour <i class="fas fa-robot"></i>
+  &nbsp;·&nbsp;
+  Information <i class="fas fa-tag"></i>
+</div>
+
+<div class="section-cmd"><span class="ps"></span> Bio</div>
+I am an ESRC-funded Ph.D. student in Economics at the [University of St Andrews](https://www.st-andrews.ac.uk/). My research is cross-institutionally supervised by [Prof. Andy Zapechelnyuk](https://www.ed.ac.uk/profile/professor-andy-zapechelnyuk) (The University of Edinburgh), [Prof. David A. Jaeger](https://risweb.st-andrews.ac.uk/portal/en/persons/david-a-jaeger(edd24b23-7d88-4ef8-834e-46ea4d47c6a7).html) (University of St Andrews), and [Dr. Min Zhang](https://risweb.st-andrews.ac.uk/portal/en/persons/min-zhang(1e199ba1-7016-4e8e-83fb-43cc92d7caec).html) (University of St Andrews).
+
+In my work, I combine quasi-experimental methods with natural language processing to examine how creativity and invention can be made more equitable and sustainable. Beyond discussing research, <a href="posts/memory.html">this page</a> highlights inventions of women patentees from 1850 to 1950 and their contributions to technological development.
+
+Prior to starting the PhD, I worked as a market analyst and economic researcher.
+
+[📇 Download my vCard](assets/vcard/f-chiaradia.vcf){download="f-chiaradia.vcf"}
+
+<div class="section-cmd"><span class="ps"></span> News</div>
+<div class="pub-list">
+<div class="pub-item">
+<div class="pub-status">2026-06</div>
+<div class="pub-body"><span class="pub-flag">new</span> Attended the <a href="https://applied-microecon.wp.st-andrews.ac.uk/fife-applied-microeconomics-and-golf-conference/" target="_blank">Fife Applied Microeconomics and Golf Conference</a>.</div>
+</div>
+<div class="pub-item">
+<div class="pub-status">2026-05</div>
+<div class="pub-body"><span class="pub-flag">new</span> Submitted a piece for the <a href="https://rss.org.uk/training-events/events/excellence-awards/award-for-early-career-writing/" target="_blank">RSS Award for Statistical Excellence in Early Career Writing</a>.</div>
+</div>
+<div class="pub-item">
+<div class="pub-status">2026-04</div>
+<div class="pub-body">A paper was accepted at <a href="https://earie.org/intro-earie-2026/">EARIE 2026</a>.</div>
+</div>
+<div class="pub-item">
+<div class="pub-status">2026-03</div>
+<div class="pub-body">A paper was posted on <a href="research.html#working-papers">SSRN</a>.</div>
+</div>
+<div class="pub-item">
+<div class="pub-status"></div>
+<div class="pub-body"><details><summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary><div style="margin-top:4px;"><div class="pub-item" style="border-top:none;"><div class="pub-status">2026-03</div><div class="pub-body">Thesis submitted for examination.</div></div><div class="pub-item" style="border-top:none;"><div class="pub-status">2025-12</div><div class="pub-body">Awarded the <a href="https://editing.press/bassi" target="_blank">Laura Bassi Scholarship</a> (40% Waiver).</div></div><div class="pub-item" style="border-top:none;"><div class="pub-status">2025-12</div><div class="pub-body">Presented at <a href="https://cyprusconferences.org/ewmes2025/" target="_blank">EWMES '25</a>.</div></div></div></div></details></div>
+</div>
+</div>

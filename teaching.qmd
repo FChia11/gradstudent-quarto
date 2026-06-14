@@ -1,0 +1,103 @@
+---
+title: "Teaching"
+format: html
+---
+
+<div class="archive-divider"></div>
+
+<style>
+.jm-dot {
+width: 7px;
+height: 7px;
+border-radius: 50%;
+background: #16a34a;
+animation: jm-pulse 2s ease-in-out infinite;
+flex-shrink: 0;
+}
+@keyframes jm-pulse {
+0%, 100% { opacity: 1; }
+50% { opacity: 0.3; }
+}
+.jm-bar a {
+color: #15803d;
+font-weight: 500;
+text-decoration: underline;
+text-decoration-color: #86efac;
+text-underline-offset: 2px;
+}
+.jm-bar a:hover { color: #166534; text-decoration-color: #16a34a; }
+</style>
+
+<div class="prompt-line">
+  <i class="fas fa-hashtag"></i> Microeconomics
+  &nbsp;·&nbsp; 
+  <i class="fas fa-hashtag"></i> Econometrics
+  &nbsp;·&nbsp;
+  <i class="fas fa-hashtag"></i> Applications
+  <span class="cursor"></span>
+</div>
+
+<div class="archive-divider"></div>
+
+<link rel="stylesheet" href="/styles/teaching.css">
+
+::: {.section .wg-experience}
+
+::: {.experience-widget}
+
+::: {.experience-item}
+::: {.exp-header}
+::: {.exp-logo}
+🏛️
+:::
+::: {.exp-meta}
+::: {.exp-org}
+University of Edinburgh - School of Economics
+:::
+::: {.exp-date}
+Sep 2023 – Present · Edinburgh
+:::
+:::
+:::
+
+::: {.exp-body}
+::: {.exp-role}
+*Private Tutor*
+:::
+::: {.exp-courses}
+- [**Topics in Microeconomics (ECNM10070)**](http://www.drps.ed.ac.uk/23-24/dpt/cxecnm10070.htm)
+- [**Topics in Macroeconomics (ECNM10069)**](https://www.drps.ed.ac.uk/26-27/dpt/cxecnm10069.htm)
+- [**Essentials of Econometrics (ECNM10052)**](http://www.drps.ed.ac.uk/23-24/dpt/cxecnm10052.htm)
+- [**Applications of Econometrics (ECNM10056)**](http://www.drps.ed.ac.uk/23-24/dpt/cxecnm10056.htm)
+:::
+:::
+:::
+
+::: {.experience-item}
+::: {.exp-header}
+::: {.exp-logo}
+🏛️
+:::
+::: {.exp-meta}
+::: {.exp-org}
+University of Edinburgh - School of Economics
+:::
+::: {.exp-date}
+Sep 2023 – Jul 2024
+:::
+:::
+:::
+
+::: {.exp-body}
+::: {.exp-role}
+*T.A. for [Dr. Sean Brocklebank](https://edwebprofiles.ed.ac.uk/profile/sean-brocklebank)*
+:::
+::: {.exp-courses}
+- [**Economics I (ECNM08013)**](http://www.drps.ed.ac.uk/23-24/dpt/cxecnm08013.htm)
+  - Average teaching evaluation of 4.5 on a 5 point scale
+:::
+:::
+:::
+
+:::
+:::

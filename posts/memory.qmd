@@ -1,0 +1,53 @@
+---
+title: "Patent Pills"
+page-layout: full
+listing:
+  contents:
+    - "./*/index.md"
+  type: grid
+  sort: "title asc"
+  fields:
+    - image
+    - title
+    - subtitle
+    - categories
+  filter-ui: true
+  sort-ui: true
+---
+This page is a curated archive of historical patents granted to women inventors around the world between 1850 and 1950. Each card highlights a filed application, its inventor, and the original records. Use the search and filter tools to explore innovations across countries and patentees.
+
+<div class="archive-divider"></div>
+
+<style>
+.jm-dot {
+width: 7px;
+height: 7px;
+border-radius: 50%;
+background: #16a34a;
+animation: jm-pulse 2s ease-in-out infinite;
+flex-shrink: 0;
+}
+@keyframes jm-pulse {
+0%, 100% { opacity: 1; }
+50% { opacity: 0.3; }
+}
+.jm-bar a {
+color: #15803d;
+font-weight: 500;
+text-decoration: underline;
+text-decoration-color: #86efac;
+text-underline-offset: 2px;
+}
+.jm-bar a:hover { color: #166534; text-decoration-color: #16a34a; }
+</style>
+
+<div class="prompt-line">
+  <i class="fas fa-hashtag"></i> Women Inventors
+  &nbsp;·&nbsp; 
+  <i class="fas fa-hashtag"></i> History of Technology
+  &nbsp;·&nbsp;
+  <i class="fas fa-hashtag"></i> Patents
+  <span class="cursor"></span>
+</div>
+
+<div class="archive-divider"></div>

@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - assets/uploads/CV.pdf
+
+website:
+  title: "Francesca Chiaradia"
+  description: "Francesca Chiaradia's personal website"
+  cookie-consent:
+    type: express
+    style: simple
+    palette: light
+
+  open-graph:
+    locale: en_US
+    site-name: Francesca Chiaradia
+    description: "PhD Candidate in Economics, University of St Andrews"
+    image: images/profile.png
+
+  twitter-card:
+    image: images/profile.png
+    card-style: summary_large_image
+    creator: "@FChia11"
+
+  page-footer:
+    left: "© 2026 Francesca Chiaradia"
+    center: ""
+    right: 
+      - text: Accessibility
+        href: accessibility.html
+      - icon: envelope
+        href: "mailto:fc73@st-andrews.ac.uk"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/f-chiaradia/"
+      - icon: bluesky
+        href: "https://bsky.app/profile/francescachiaradia.bsky.social"
+        
+  google-analytics:
+    tracking-id: "G-K2JWTFSGJ7"
+    anonymize-ip: true
+    
+  navbar:
+    logo: false
+    align: center
+    title: false
+    collapse-below: lg
+    right:
+      - text: "Home"
+        href: index.html
+      - text: CV
+        href: assets/uploads/CV.pdf
+      - text: Research
+        href: research.html
+      - text: Patent Pills
+        href: posts/memory.html
+      - text: Teaching
+        href: teaching.html
+
+format:
+  html:
+    theme: 
+      light: flatly
+    css: styles.css
+    include-in-header: header.html
+    fontsize: 1.0em
+    code-copy: true
+    code-overflow: wrap
+    fontawesome: true
+    

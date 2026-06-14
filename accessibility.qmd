@@ -1,0 +1,41 @@
+---
+title: "Accessibility Statement"
+---
+<div class="archive-divider"></div>
+
+I am committed to making this website accessible and usable for as many people as possible, regardless of ability or circumstance.
+
+This website is maintained as a personal academic website and is intended to facilitate access to research outputs and other scholarly activities. In developing and maintaining the site, I aim to follow recognized web accessibility principles and provide content that can be accessed across a range of devices, browsers, and assistive technologies.
+
+### Accessibility Features
+
+This website includes a number of accessibility considerations, including:
+
+- Semantic HTML structure to support screen readers and keyboard navigation.
+- Responsive layouts designed to function across desktop and mobile devices.
+- Alternative text for images whenever appropriate.
+- Sufficient color contrast for most text and interface elements.
+- Descriptive link text wherever feasible.
+- Support for browser zoom and text scaling.
+
+### Ongoing Improvements
+
+Accessibility is an ongoing process rather than a one-time achievement. While I strive to ensure that content is accessible, some materials — especially historical documents, externally hosted resources, scanned images, or legacy content - may not yet fully meet current accessibility standards.
+
+I periodically review the website and welcome feedback that can help improve these standards.
+
+### Third-Party Content
+
+Some content on this website may link to external websites, repositories, datasets, social media platforms, or other third-party services. I cannot guarantee the accessibility of content hosted by external providers.
+
+### Feedback and Contact
+
+If you encounter an accessibility barrier, experience difficulty accessing any content, or have suggestions for improving accessibility, please contact me:
+
+📧 [fc73@st-andrews.ac.uk](mailto:fc73@st-andrews.ac.uk)
+
+I will make every reasonable effort to provide information in an alternative format and to address accessibility concerns where possible.
+
+### Technical Information
+
+This website is built using Quarto and is designed to support modern web standards. It is regularly tested on current versions of major browsers and across a range of screen sizes.
