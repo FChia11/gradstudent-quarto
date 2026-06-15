@@ -1,6 +1,5 @@
 ---
 title: "Privacy Policy"
-description: "How this website handles your data"
 page-layout: article
 toc: false
 ---
@@ -11,7 +10,7 @@ This privacy policy explains how this personal academic website collects and use
 
 ---
 
-## Who runs this site
+## Website Ownership and Administration
 
 This website is maintained by **Francesca Chiaradia**, PhD Candidate in Economics at the University of St Andrews. It is a personal academic site and is not affiliated with any commercial entity.
 
@@ -19,7 +18,7 @@ If you have any questions about this policy, you can contact me at [fc73@st-andr
 
 ---
 
-## What data is collected
+## Data Collection and Usage
 
 ### Analytics (Google Analytics)
 
@@ -46,13 +45,13 @@ This site does not include any registration, login, or contact forms. No persona
 
 ---
 
-## Third-party services
+## Third-Party Services
 
 This site links to external platforms (Google Scholar, LinkedIn, Bluesky, SSRN, and others). Visiting those links is governed by their own privacy policies, which are independent of this site.
 
 ---
 
-## Your rights (GDPR)
+## Data Subject Rights (GDPR)
 
 If you are based in the European Economic Area or the United Kingdom, you have rights under the GDPR and UK GDPR, including the right to access, correct, or request deletion of any personal data held about you. Given that this site collects only anonymised analytics data, there is generally no personally identifiable data to request. However, if you have concerns, please contact me directly.
 
