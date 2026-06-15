@@ -113,3 +113,117 @@ document.addEventListener("DOMContentLoaded", function () {
   document.body.appendChild(nav);
 });
 </script>
+
+<!-- Custom Cookie Banner -->
+<div id="cookie-banner" style="display:none">
+  <div id="cookie-inner">
+    <p id="cookie-text">
+      This site uses cookies for analytics. 
+      <a href="accessibility.html">Learn more</a>
+    </p>
+    <div id="cookie-btns">
+      <button id="cookie-deny">Deny</button>
+      <button id="cookie-allow">Allow</button>
+    </div>
+  </div>
+</div>
+
+<style>
+#cookie-banner {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  width: min(520px, 90vw);
+  background: #1a2e16;
+  color: #f0f0f0;
+  border: 1px solid #2c511f;
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.18);
+  padding: 1rem 1.25rem;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+#cookie-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+#cookie-text {
+  margin: 0;
+  color: #ccc;
+  flex: 1;
+  min-width: 180px;
+}
+
+#cookie-text a {
+  color: #7ec87e;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+#cookie-btns {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+#cookie-deny {
+  background: transparent;
+  color: #aaa;
+  border: 1px solid #555;
+  padding: 6px 14px;
+  border-radius: 5px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+#cookie-deny:hover {
+  color: #fff;
+  border-color: #aaa;
+}
+
+#cookie-allow {
+  background: #2c511f;
+  color: #fff;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 5px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+#cookie-allow:hover {
+  background: #4a7c3f;
+}
+</style>
+
+<script>
+(function() {
+  const KEY = 'cookie_consent';
+  if (localStorage.getItem(KEY)) return; // already decided
+
+  const banner = document.getElementById('cookie-banner');
+  banner.style.display = 'block';
+
+  document.getElementById('cookie-allow').addEventListener('click', function() {
+    localStorage.setItem(KEY, 'granted');
+    banner.style.display = 'none';
+  });
+
+  document.getElementById('cookie-deny').addEventListener('click', function() {
+    localStorage.setItem(KEY, 'denied');
+    banner.style.display = 'none';
+  });
+})();
+</script>

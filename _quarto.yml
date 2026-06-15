@@ -7,10 +7,6 @@ project:
 website:
   title: "Francesca Chiaradia"
   description: "Francesca Chiaradia's personal website"
-  cookie-consent:
-    type: express
-    style: simple
-    palette: light
 
   open-graph:
     locale: en_US
