@@ -1,0 +1,63 @@
+---
+title: "Privacy Policy"
+description: "How this website handles your data"
+page-layout: article
+toc: false
+---
+
+*Last updated: June 2026*
+
+This privacy policy explains how this personal academic website collects and uses information when you visit it.
+
+---
+
+## Who runs this site
+
+This website is maintained by **Francesca Chiaradia**, PhD Candidate in Economics at the University of St Andrews. It is a personal academic site and is not affiliated with any commercial entity.
+
+If you have any questions about this policy, you can contact me at [fc73@st-andrews.ac.uk](mailto:fc73@st-andrews.ac.uk).
+
+---
+
+## What data is collected
+
+### Analytics (Google Analytics)
+
+This site uses **Google Analytics** (tracking ID: G-K2JWTFSGJ7) to collect anonymised information about how visitors interact with the site. IP anonymisation is enabled, meaning your full IP address is never stored.
+
+The data collected includes:
+
+- Pages visited and time spent on each page
+- Approximate geographic location (country/region level only)
+- Browser type and device type
+- How you arrived at the site (e.g. search engine, direct link)
+
+This information is used solely to understand which content is most useful to visitors and to improve the site. It is not used for advertising or shared with third parties beyond Google's own analytics infrastructure.
+
+### Cookies
+
+This site uses cookies only for the purposes described above. No tracking cookies are set without your consent. If you decline analytics cookies via the banner at the bottom of the page, no Google Analytics cookies will be active.
+
+You can also manage or delete cookies at any time through your browser settings.
+
+### No registration or forms
+
+This site does not include any registration, login, or contact forms. No personal data (such as your name or email address) is collected directly by this site.
+
+---
+
+## Third-party services
+
+This site links to external platforms (Google Scholar, LinkedIn, Bluesky, SSRN, and others). Visiting those links is governed by their own privacy policies, which are independent of this site.
+
+---
+
+## Your rights (GDPR)
+
+If you are based in the European Economic Area or the United Kingdom, you have rights under the GDPR and UK GDPR, including the right to access, correct, or request deletion of any personal data held about you. Given that this site collects only anonymised analytics data, there is generally no personally identifiable data to request. However, if you have concerns, please contact me directly.
+
+---
+
+## Changes to this policy
+
+This policy may be updated occasionally. Any changes will be reflected on this page with a revised date at the top.
