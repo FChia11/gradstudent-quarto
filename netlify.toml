@@ -1,3 +1,6 @@
 [build]
-  command = "curl -sL https://quarto.org/download/latest/quarto-linux-amd64.deb -o quarto.deb && sudo dpkg -i quarto.deb && quarto render"
+  command = "quarto render"
   publish = "_site"
+
+[[plugins]]
+  package = "netlify-plugin-quarto"
