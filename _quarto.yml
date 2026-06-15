@@ -3,6 +3,9 @@ project:
   output-dir: _site
   resources: 
     - assets/uploads/CV.pdf
+    
+execute:
+  freeze: auto
 
 website:
   title: "Francesca Chiaradia"
