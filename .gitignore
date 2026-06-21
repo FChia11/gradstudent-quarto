@@ -6,3 +6,7 @@ _site/
 .Rhistory
 .RData
 .Rproj.user/
+.positai
+.Rproj.user
+.httr-oauth
+.quarto
