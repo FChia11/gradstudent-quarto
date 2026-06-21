@@ -3,3 +3,6 @@
 
 [[plugins]]
   package = "netlify-plugin-quarto"
+  
+[plugins.inputs]
+    version = "1.10.11"
