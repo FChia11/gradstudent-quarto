@@ -86,7 +86,7 @@ Prior to starting the PhD, I worked as a market analyst and economic researcher.
 </div>
 <div class="pub-item">
 <div class="pub-status">2026-05</div>
-<div class="pub-body"><span class="pub-flag">new</span> Submitted a piece for the <a href="https://rss.org.uk/training-events/events/excellence-awards/award-for-early-career-writing/" target="_blank">RSS Award for Statistical Excellence in Early Career Writing</a>.</div>
+<div class="pub-body">Submitted a piece for the <a href="https://rss.org.uk/training-events/events/excellence-awards/award-for-early-career-writing/" target="_blank">RSS Award for Statistical Excellence in Early Career Writing</a>.</div>
 </div>
 <div class="pub-item">
 <div class="pub-status">2026-04</div>
