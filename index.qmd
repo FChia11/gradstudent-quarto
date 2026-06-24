@@ -78,7 +78,7 @@ Prior to starting the PhD, I worked as a market analyst and economic researcher.
 <div class="pub-list">
 <div class="pub-item">
 <div class="pub-status">2026-06</div>
-<div class="pub-body"><span class="pub-flag">new</span> Awarded a <a href="https://stleonardscollege.st-andrews.ac.uk/funding/st-leonards-college-postgraduate-travel-award/" target="_blank">St Leonard’s College Postgraduate Travel Award</a>.</div>
+<div class="pub-body"><span class="pub-flag">new</span> Awarded the <a href="https://stleonardscollege.st-andrews.ac.uk/funding/st-leonards-college-postgraduate-travel-award/" target="_blank">St Leonard’s College Postgraduate Travel Award</a>.</div>
 </div>
 <div class="pub-item">
 <div class="pub-status">2026-06</div>
