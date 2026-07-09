@@ -19,7 +19,7 @@ about:
       href: https://github.com/FChia11
     - icon: bluesky
       href: https://bsky.app/profile/francescachiaradia.bsky.social
-    - icon: twitter
+    - icon: x-twitter
       href: https://x.com/francescachia11
     - icon: mortarboard
       href: https://scholar.google.com/citations?hl=it&user=2gIBAbcAAAAJ
