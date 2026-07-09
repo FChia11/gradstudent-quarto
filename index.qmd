@@ -2,7 +2,7 @@
 title: "Francesca Chiaradia"
 pagetitle: "Francesca Chiaradia"
 subtitle: |
-  Research Economist<br>Innovation, AI & Sustainability
+  Ph.D. Researcher in Economics
 image: assets/images/avatar.jpg
 page-layout: full
 grid:
@@ -19,8 +19,6 @@ about:
       href: https://github.com/FChia11
     - icon: bluesky
       href: https://bsky.app/profile/francescachiaradia.bsky.social
-    - icon: fa-brands fa-x-twitter
-      href: https://x.com/francescachia11
     - icon: mortarboard
       href: https://scholar.google.com/citations?hl=it&user=2gIBAbcAAAAJ
     - icon: universal-access
