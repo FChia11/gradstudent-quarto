@@ -70,7 +70,7 @@ I recently completed my Ph.D. in Economics at the [University of St Andrews](htt
 
 In my work, I combine quasi-experimental methods with natural language processing to examine how creativity and invention can be made more equitable and sustainable. Beyond discussing research, <a href="posts/memory.html">this page</a> highlights inventions of women patentees from 1850 to 1950 and their contributions to technological development.
 
-Prior to starting the PhD, I worked as a market analyst and economic researcher.
+Prior to starting the Ph.D., I worked as a market analyst and economic researcher.
 
 [📇 Download my vCard](assets/vcard/f-chiaradia.vcf){download="f-chiaradia.vcf"}
 
