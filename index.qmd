@@ -2,7 +2,7 @@
 title: "Francesca Chiaradia"
 pagetitle: "Francesca Chiaradia"
 subtitle: |
-  Ph.D. Candidate in Economics<br>University of St Andrews
+  Research Economist<br>Innovation, AI & Sustainability
 image: assets/images/avatar.jpg
 page-layout: full
 grid:
@@ -19,7 +19,7 @@ about:
       href: https://github.com/FChia11
     - icon: bluesky
       href: https://bsky.app/profile/francescachiaradia.bsky.social
-    - icon: x-twitter
+    - icon: fa-brands fa-x-twitter
       href: https://x.com/francescachia11
     - icon: mortarboard
       href: https://scholar.google.com/citations?hl=it&user=2gIBAbcAAAAJ
