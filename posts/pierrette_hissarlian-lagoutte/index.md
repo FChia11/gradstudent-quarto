@@ -15,7 +15,7 @@ issuance_date: 1946-07-15
 initial: P
 title: "Pierrette Hissarlian-Lagoutte, CH243361A"
 ---
-On July 15, 1946, Pierrette Hissarlian-Lagoutte was awarded a patent for developing a novel graphical system that linked musical tones with corresponding colours to create a visual representation. Her method used a circular chart that mapped musical notes, intervals, and harmonies to colours, with the aim of guiding the creation of films, performances, and other visual works inspired by music.
+On July 15, 1946, Pierrette Hissarlian-Lagoutte of Grenchen was awarded a patent for developing a novel graphical system that linked musical tones with corresponding colours to create a visual representation. Her method used a circular chart that mapped musical notes, intervals, and harmonies to colours, with the aim of guiding the creation of films, performances, and other visual works inspired by music.
 
 Date of Application: 11 January 1945
 
