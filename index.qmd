@@ -76,32 +76,63 @@ Prior to starting the Ph.D., I worked as a market analyst and economic researche
 
 <div class="section-cmd"><span class="ps"></span> News</div>
 <div class="pub-list">
+
 <div class="pub-item">
 <div class="pub-status">2026-06</div>
-<div class="pub-body"><span class="pub-flag">new</span> Passed my Ph.D. viva with no corrections! 🎉</a></div>
+<div class="pub-body"><span class="pub-flag">new</span> Passed my Ph.D. viva with no corrections! 🎉</div>
 </div>
+
 <div class="pub-item">
 <div class="pub-status">2026-06</div>
-<div class="pub-body"><span class="pub-flag">new</span> Awarded the <a href="https://stleonardscollege.st-andrews.ac.uk/funding/st-leonards-college-postgraduate-travel-award/" target="_blank">St Leonard’s College Postgraduate Travel Award</a>.</div>
+<div class="pub-body"><span class="pub-flag">new</span> Awarded the <a href="https://stleonardscollege.st-andrews.ac.uk/funding/st-leonards-college-postgraduate-travel-award/" target="_blank">STLC travel award</a>.</div>
 </div>
+
 <div class="pub-item">
 <div class="pub-status">2026-06</div>
-<div class="pub-body"> Attended the <a href="https://applied-microecon.wp.st-andrews.ac.uk/fife-applied-microeconomics-and-golf-conference/" target="_blank">Fife Applied Microeconomics and Golf Conference</a>.</div>
+<div class="pub-body">Attended the <a href="https://applied-microecon.wp.st-andrews.ac.uk/fife-applied-microeconomics-and-golf-conference/" target="_blank">Fife Applied Microeconomics and Golf Conference</a>.</div>
 </div>
+
 <div class="pub-item">
 <div class="pub-status">2026-05</div>
 <div class="pub-body">Submitted a piece for the <a href="https://rss.org.uk/training-events/events/excellence-awards/award-for-early-career-writing/" target="_blank">RSS Award for Statistical Excellence in Early Career Writing</a>.</div>
 </div>
+
 <div class="pub-item">
 <div class="pub-status">2026-04</div>
 <div class="pub-body">A paper was accepted at <a href="https://earie.org/intro-earie-2026/">EARIE 2026</a>.</div>
 </div>
+
 <div class="pub-item">
+<div class="pub-status"></div>
+<div class="pub-body">
+<details>
+<summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary>
+
+<div style="margin-top:4px;">
+
+<div class="pub-item" style="border-top:none;">
 <div class="pub-status">2026-03</div>
 <div class="pub-body">A paper was posted on <a href="research.html#working-papers">SSRN</a>.</div>
 </div>
-<div class="pub-item">
-<div class="pub-status"></div>
-<div class="pub-body"><details><summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary><div style="margin-top:4px;"><div class="pub-item" style="border-top:none;"><div class="pub-status">2026-03</div><div class="pub-body">Thesis submitted for examination.</div></div><div class="pub-item" style="border-top:none;"><div class="pub-status">2025-12</div><div class="pub-body">Awarded the <a href="https://editing.press/bassi" target="_blank">Laura Bassi Scholarship</a> (40% Waiver).</div></div><div class="pub-item" style="border-top:none;"><div class="pub-status">2025-12</div><div class="pub-body">Presented at <a href="https://cyprusconferences.org/ewmes2025/" target="_blank">EWMES '25</a>.</div></div></div></div></details></div>
+
+<div class="pub-item" style="border-top:none;">
+<div class="pub-status">2026-03</div>
+<div class="pub-body">Thesis submitted for examination.</div>
 </div>
+
+<div class="pub-item" style="border-top:none;">
+<div class="pub-status">2025-12</div>
+<div class="pub-body">Awarded the <a href="https://editing.press/bassi" target="_blank">Laura Bassi Scholarship</a> (40% Waiver).</div>
+</div>
+
+<div class="pub-item" style="border-top:none;">
+<div class="pub-status">2025-12</div>
+<div class="pub-body">Presented at <a href="https://cyprusconferences.org/ewmes2025/" target="_blank">EWMES '25</a>.</div>
+</div>
+
+</div>
+</details>
+</div>
+</div>
+
 </div>
