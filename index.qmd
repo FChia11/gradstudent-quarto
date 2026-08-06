@@ -79,7 +79,7 @@ Prior to starting the Ph.D., I worked as a market analyst and economic researche
 
 <div class="pub-item">
 <div class="pub-status">2026-08</div>
-<div class="pub-body"><span class="pub-flag">new</span> New article live at <strong>ProMarket</strong>. Read it here: <a href="https://www.promarket.org/2026/08/04/green-public-procurement-was-supposed-to-reduce-emissions-its-also-reducing-competition/" target="_blank" rel="noopener noreferrer" aria-label="Read the ProMarket article">🔗</a>.</div>
+<div class="pub-body"><span class="pub-flag">new</span> New article live at <em>ProMarket</em>. Read it here: <a href="https://www.promarket.org/2026/08/04/green-public-procurement-was-supposed-to-reduce-emissions-its-also-reducing-competition/" target="_blank" rel="noopener noreferrer" aria-label="Read the ProMarket article">🔗</a>.</div>
 </div>
 
 <div class="pub-item">
