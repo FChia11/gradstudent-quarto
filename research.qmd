@@ -134,7 +134,7 @@ My research focuses on intellectual property, innovation economics, and wine pat
 
 <div class="pub-list">
 <div class="pub-item">
-<div class="pub-status">First Draft</div>
+<div class="pub-status">Submitted</div>
 <div class="pub-body">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7145918" target="_blank">Persuasion and Norm Persistence</a><span class="pub-venue"><span class="me">Chiaradia, F. </span> &nbsp;·&nbsp;Available upon request.</span><span class="pub-pres"> Presented: Rethinking Economic Theory International Workshop; Brown Bag Seminar, University of St Andrews; GAMES 2024; RES 2024; PhD Presentation and Networking, The Alan Turing Institute; SGPE 2024.</span><div class="pub-row"><span class="pub-tag">Information Design</span> <span class="pub-tag">Optimal Certification</span> <span class="pub-tag">Evolutionary Games</span> <span class="pub-tag">Social Norms</span></div>
 <div class="pub-row"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7145918" class="pub-link paper" target="_blank">Paper</a></div>
