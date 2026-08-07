@@ -5,7 +5,7 @@ title: "Research"
 <style>
 .section-cmd {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 1rem;
+  font-size: 0.8rem;
   color: #aaa;
   letter-spacing: 0.08em;
   margin: 1rem 0 0;
