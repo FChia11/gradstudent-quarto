@@ -98,22 +98,22 @@ Prior to starting the Ph.D., I worked as a market analyst and economic researche
 </div>
 
 <div class="pub-item">
-<div class="pub-status">2026-05</div>
-<div class="pub-body">Submitted a piece for the <a href="https://rss.org.uk/training-events/events/excellence-awards/award-for-early-career-writing/" target="_blank">RSS Award for Statistical Excellence in Early Career Writing</a>.</div>
-</div>
-
-<div class="pub-item">
-<div class="pub-status">2026-04</div>
-<div class="pub-body">A paper was accepted at <a href="https://earie.org/intro-earie-2026/">EARIE 2026</a>.</div>
-</div>
-
-<div class="pub-item">
 <div class="pub-status"></div>
 <div class="pub-body">
 <details>
 <summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary>
 
 <div style="margin-top:4px;">
+
+<div class="pub-item" style="border-top:none;">
+<div class="pub-status">2026-05</div>
+<div class="pub-body">Submitted a piece for the <a href="https://rss.org.uk/training-events/events/excellence-awards/award-for-early-career-writing/" target="_blank">RSS Award for Statistical Excellence in Early Career Writing</a>.</div>
+</div>
+
+<div class="pub-item" style="border-top:none;">
+<div class="pub-status">2026-04</div>
+<div class="pub-body">A paper was accepted at <a href="https://earie.org/intro-earie-2026/">EARIE 2026</a>.</div>
+</div>
 
 <div class="pub-item" style="border-top:none;">
 <div class="pub-status">2026-03</div>
