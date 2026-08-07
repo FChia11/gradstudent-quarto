@@ -117,7 +117,7 @@ title: "Research"
 .me { font-weight: 500; color: #111; }
 </style>
 
-My research focuses on intellectual property, innovation economics, and wine patents, with a focus on computational and NLP methods for measuring technological change over time.
+My research focuses on intellectual property, innovation economics, and wine patents, with a focus on NLP and computational methods for measuring technological change over time.
 
 ---
 
