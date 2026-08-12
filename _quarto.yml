@@ -10,7 +10,8 @@ execute:
 website:
   title: "Francesca Chiaradia"
   description: "Francesca Chiaradia's personal website"
-
+  favicon: assets/images/2.png
+  
   open-graph:
     locale: en_US
     site-name: Francesca Chiaradia
