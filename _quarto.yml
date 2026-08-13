@@ -56,8 +56,8 @@ website:
         href: posts/memory.html
       - text: Teaching
         href: teaching.html
-      - id: theme-selector
-        text: "◐"
+      - text: '<span id="theme-selector">◐</span>'
+        href: "#"
 
 format:
   html:
