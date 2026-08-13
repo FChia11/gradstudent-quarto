@@ -56,12 +56,11 @@ website:
         href: posts/memory.html
       - text: Teaching
         href: teaching.html
-      - text: '<span id="theme-selector">◐</span>'
-        href: "#"
 
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
     css: styles.css
     include-in-header: header.html
     fontsize: 1.0em
