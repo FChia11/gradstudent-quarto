@@ -61,8 +61,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: flatly
+    theme: flatly
     css: styles.css
     include-in-header: header.html
     fontsize: 1.0em
