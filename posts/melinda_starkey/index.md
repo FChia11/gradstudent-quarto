@@ -15,7 +15,7 @@ issuance_date: 1923-11-20
 initial: M
 title: "Melinda A. Starkey, US1474799A"
 ---
-On November 20, 1923, Melinda A. Starkey, a British citizen residing in Los Angeles, devised a novel device for protecting fruit while harvesting it from trees. Her invention consisted of a pair of snips with curved jaws and curved ends designed to shield the fruit from accidental cuts during harvesting, especially when picking oranges.
+On November 20, 1923, Melinda A. Starkey, a British citizen residing in Los Angeles, devised a novel device for protecting fruit while harvesting it from trees. Her invention consisted of a pair of snips with curved jaws and curved ends designed to shield the fruit from accidental cuts, especially when picking oranges.
 
 Date of Application: 17 January 1922
 
