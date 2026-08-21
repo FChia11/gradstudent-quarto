@@ -15,8 +15,16 @@ title: "Research"
   align-items: center;
   gap: 6px;
 }
-.section-cmd .ps { color: #2c511f; }
-.pub-list { display: flex; flex-direction: column; }
+
+.section-cmd .ps { 
+  color: #2c511f; 
+}
+
+.pub-list { 
+  display: flex; 
+  flex-direction: column; 
+}
+
 .pub-item {
   display: grid;
   grid-template-columns: 72px 1fr;
@@ -25,7 +33,11 @@ title: "Research"
   border-bottom: 1px solid #f0f0f0;
   align-items: baseline;
 }
-.pub-item:first-child { border-top: 1px solid #f0f0f0; }
+
+.pub-item:first-child { 
+  border-top: 1px solid #f0f0f0; 
+}
+
 .pub-status {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.68rem;
@@ -35,19 +47,26 @@ title: "Research"
   white-space: nowrap;
   line-height: 1.65;
 }
+
 .pub-body {
   font-size: 0.85rem;
   font-weight: 300;
   color: #333;
   line-height: 1.65;
 }
+
 .pub-body a {
   color: #111;
   text-decoration: underline;
   text-decoration-color: #e0e0e0;
   text-underline-offset: 2px;
 }
-.pub-body a:hover { color: #2c511f; text-decoration-color: #2c511f; }
+
+.pub-body a:hover { 
+  color: #2c511f; 
+  text-decoration-color: #2c511f; 
+}
+
 .pub-venue {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.67rem;
@@ -55,6 +74,7 @@ title: "Research"
   display: block;
   margin-top: 2px;
 }
+
 .pub-award {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.65rem;
@@ -63,6 +83,7 @@ title: "Research"
   margin-top: 3px;
   letter-spacing: 0.02em;
 }
+
 .pub-pres {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.65rem;
@@ -71,6 +92,7 @@ title: "Research"
   margin-top: 3px;
   letter-spacing: 0.02em;
 }
+
 .pub-row {
   display: flex;
   align-items: center;
@@ -78,6 +100,7 @@ title: "Research"
   gap: 5px;
   margin-top: 6px;
 }
+
 .pub-tag {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.6rem;
@@ -87,7 +110,10 @@ title: "Research"
   border-radius: 2px;
   letter-spacing: 0.03em;
 }
+
+/* Publication / WIP buttons */
 .pub-link {
+  display: inline-block;
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.65rem;
   letter-spacing: 0.04em;
@@ -95,11 +121,44 @@ title: "Research"
   border-radius: 2px;
   text-decoration: none !important;
   transition: all 0.12s;
+  line-height: normal;
 }
-.pub-link.paper { background: #111; color: #fff !important; }
-.pub-link.paper:hover { background: #2c511f; }
-.pub-link.code { border: 1px solid #2c511f; color: #2c511f !important; }
-.pub-link.code:hover { background: #2c511f; color: #fff !important; }
+
+/* Paper button */
+.pub-link.paper {
+  background: #111;
+  color: #fff !important;
+  border: 1px solid #111;
+}
+
+.pub-link.paper:hover { 
+  background: #2c511f; 
+  border-color: #2c511f;
+}
+
+/* Featured buttons */
+.pub-link.featured {
+  background: #fbfce8;
+  color: #8a6d1d !important;
+  border: 1px solid #e6d9a8;
+}
+
+.pub-link.featured:hover {
+  background: #f3efc9;
+  color: #6f5715 !important;
+  border-color: #cdbb73;
+}
+
+/* Keep publication button row as compact as WIP */
+.pub-row.pub-links {
+  margin-top: 6px;
+  gap: 5px;
+}
+
+.pub-row.pub-links + .pub-row {
+  margin-top: 2px;
+}
+
 .pub-flag {
   display: inline-block;
   font-family: 'JetBrains Mono', monospace;
@@ -114,7 +173,11 @@ title: "Research"
   position: relative;
   top: -1px;
 }
-.me { font-weight: 500; color: #111; }
+
+.me { 
+  font-weight: 500; 
+  color: #111; 
+}
 </style>
 
 My research focuses on intellectual property, innovation economics, and wine patents, with a focus on NLP and computational methods for measuring technological change over time.
@@ -150,9 +213,10 @@ My research focuses on intellectual property, innovation economics, and wine pat
 <div class="pub-body"><a href="https://doi.org/10.1017/jwe.2025.10102" target="_blank">Measuring Technological Similarity in the Wine Industry</a><span class="pub-venue"><span class="me">Chiaradia, F. </span> &nbsp;·&nbsp; Journal of Wine Economics.</span><span class="pub-pres"> Presented: 17th Annual Conference of the American Association of Wine Economists.</span><div class="pub-row"><span class="pub-tag">RAG</span> <span class="pub-tag">Sentence Embeddings</span> <span class="pub-tag">Wine Patents</span> <span class="pub-tag">NLP</span> <span class="pub-tag">Technological Similarity</span></div>
 <div class="pub-row pub-links">
 <a href="https://www.cambridge.org/core/journals/journal-of-wine-economics/article/measuring-technological-similarity-in-the-wine-industry/5E842C425BBC75E27C8B2988AE7AE484" class="pub-link paper" target="_blank">Paper</a>
-<a href="YOUR_LINK_1" class="pub-link featured" target="_blank">Featured</a>
-<a href="YOUR_LINK_2" class="pub-link featured" target="_blank">Featured</a>
-<a href="YOUR_LINK_3" class="pub-link featured" target="_blank">Featured</a>
+<a href="https://winenews.it/it/linnovazione-del-vino-segue-due-strade-piu-standard-in-europa-e-piu-diversificata-nel-nuovo-mondo_599598/" class="pub-link featured" target="_blank">Wine News</a>
+<a href="https://drinks.gr/ai-tools-transform-insights-on-wine-innovation-trends/" class="pub-link featured" target="_blank">DRINKS.GR</a>
+<a href="vinetur.com/en/study-finds-ai-tools-alter-conclusions-on-wine-innovation.html" class="pub-link featured" target="_blank">Vinetur</a>
+<a href="https://www.winesinfo.com/html/2026/8/4-89177.html" class="pub-link featured" target="_blank">中国葡萄酒信息网</a>
 </div>
 <div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Technological similarity enables wine operators to share best practices, benchmark against industry standards, and identify new areas of innovation. Despite this, measuring similarity is notoriously challenging. In this paper, I use sentence embeddings on wine patent data to show how similarity compares across different models. I validate the results both internally and externally, showing large discrepancies in annual trends. The results underscore the importance of selecting suitable models for market assessment, providing a valuable primer for both wine operators and technologists.</div></details></div>
 <div class="pub-row"><details><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Cite (APA)</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#f9f9f9;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Chiaradia, F. (2026). "Measuring Technological Similarity in the Wine Industry". <em>Journal of Wine Economics</em>, pp. 1–28. doi:10.1017/jwe.2025.10102.</div></details></div></div>

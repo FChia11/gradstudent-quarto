@@ -1323,26 +1323,3 @@ body.section-research img {
   background: #263026;
   color: #7ec87e;
 }
-
-/* =========================
-   FEATURED BUTTON - RESEARCH 
-   ========================= */
-
-.pub-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-  margin-top: 0.35rem;
-}
-
-.pub-link.featured {
-  color: #8a6d1d;
-  border-color: #e6d9a8;
-  background: #fbfce8;
-}
-
-.pub-link.featured:hover {
-  color: #6f5715;
-  border-color: #cdbb73;
-  background: #f7f8d9;
-}
