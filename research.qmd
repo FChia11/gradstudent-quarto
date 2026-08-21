@@ -156,7 +156,7 @@ title: "Research"
 }
 
 .pub-row.pub-links + .pub-row {
-  margin-top: 2px;
+  margin-top: 0;
 }
 
 .pub-flag {
@@ -215,7 +215,7 @@ My research focuses on intellectual property, innovation economics, and wine pat
 <a href="https://www.cambridge.org/core/journals/journal-of-wine-economics/article/measuring-technological-similarity-in-the-wine-industry/5E842C425BBC75E27C8B2988AE7AE484" class="pub-link paper" target="_blank">Paper</a>
 <a href="https://winenews.it/it/linnovazione-del-vino-segue-due-strade-piu-standard-in-europa-e-piu-diversificata-nel-nuovo-mondo_599598/" class="pub-link featured" target="_blank">Wine News</a>
 <a href="https://drinks.gr/ai-tools-transform-insights-on-wine-innovation-trends/" class="pub-link featured" target="_blank">DRINKS.GR</a>
-<a href="vinetur.com/en/study-finds-ai-tools-alter-conclusions-on-wine-innovation.html" class="pub-link featured" target="_blank">Vinetur</a>
+<a href="https://vinetur.com/en/study-finds-ai-tools-alter-conclusions-on-wine-innovation.html" class="pub-link featured" target="_blank">Vinetur</a>
 <a href="https://www.winesinfo.com/html/2026/8/4-89177.html" class="pub-link featured" target="_blank">中国葡萄酒信息网</a>
 </div>
 <div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Technological similarity enables wine operators to share best practices, benchmark against industry standards, and identify new areas of innovation. Despite this, measuring similarity is notoriously challenging. In this paper, I use sentence embeddings on wine patent data to show how similarity compares across different models. I validate the results both internally and externally, showing large discrepancies in annual trends. The results underscore the importance of selecting suitable models for market assessment, providing a valuable primer for both wine operators and technologists.</div></details></div>
