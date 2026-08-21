@@ -138,25 +138,15 @@ title: "Research"
 
 /* Featured buttons */
 .pub-link.featured {
-  background: #faf5ea;
-  color: #195542 !important;
-  border: 1px solid #8c9b82;
-}
-
-.pub-link.featured:nth-child(3) {
-  color: #70558c !important;
-  border-color: #a996c3;
-}
-
-.pub-link.featured:nth-child(4) {
-  color: #526f80 !important;
-  border-color: #b1c4d1;
+  background: #f5f5d5;
+  color: #354a2f !important;
+  border: 1px solid #a3b68a;
 }
 
 .pub-link.featured:hover {
-  background: #195542;
-  color: #faf5ea !important;
-  border-color: #195542;
+  background: #5c724a;
+  color: #fff !important;
+  border-color: #5c724a;
 }
 
 /* Keep publication button row as compact as WIP */
