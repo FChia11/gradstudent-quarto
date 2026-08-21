@@ -148,39 +148,14 @@ My research focuses on intellectual property, innovation economics, and wine pat
 <div class="pub-item">
 <div class="pub-status">2026</div>
 <div class="pub-body">
-<a href="https://doi.org/10.1017/jwe.2025.10102" target="_blank">Measuring Technological Similarity in the Wine Industry</a>
-<div>
-<span class="pub-venue"><span class="me">Chiaradia, F.</span> &nbsp;·&nbsp; Journal of Wine Economics.</span>
-<span class="pub-pres"> Presented: 17th Annual Conference of the American Association of Wine Economists.</span>
-<div class="pub-row">
-<span class="pub-tag">RAG</span>
-<span class="pub-tag">Sentence Embeddings</span>
-<span class="pub-tag">Wine Patents</span>
-<span class="pub-tag">NLP</span>
-<span class="pub-tag">Technological Similarity</span>
-</div>
-<div class="pub-row pub-links">
-<a href="https://www.cambridge.org/core/journals/journal-of-wine-economics/article/measuring-technological-similarity-in-the-wine-industry/5E842C425BBC75E27C8B2988AE7AE484" class="pub-link paper" target="_blank">Paper</a>
+<a href="https://doi.org/10.1017/jwe.2025.10102" target="_blank">Measuring Technological Similarity in the Wine Industry</a><div>
+<span class="pub-venue"><span class="me">Chiaradia, F.</span> &nbsp;·&nbsp; Journal of Wine Economics.</span><span class="pub-pres"> Presented: 17th Annual Conference of the American Association of Wine Economists.</span>
+<div class="pub-row"><span class="pub-tag">RAG</span><span class="pub-tag">Sentence Embeddings</span><span class="pub-tag">Wine Patents</span><span class="pub-tag">NLP</span><span class="pub-tag">Technological Similarity</span></div><div class="pub-row pub-links"><a href="https://www.cambridge.org/core/journals/journal-of-wine-economics/article/measuring-technological-similarity-in-the-wine-industry/5E842C425BBC75E27C8B2988AE7AE484" class="pub-link paper" target="_blank">Paper</a>
 <a href="YOUR_LINK_1" class="pub-link featured" target="_blank">Featured</a>
 <a href="YOUR_LINK_2" class="pub-link featured" target="_blank">Featured</a>
 <a href="YOUR_LINK_3" class="pub-link featured" target="_blank">Featured</a>
-</div>
-<div class="pub-row">
-<details style="margin-top:6px;">
-<summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary>
-<div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Technological similarity enables wine operators to share best practices, benchmark against industry standards, and identify new areas of innovation. Despite this, measuring similarity is notoriously challenging. In this paper, I use sentence embeddings on wine patent data to show how similarity compares across different models. I validate the results both internally and externally, showing large discrepancies in annual trends. The results underscore the importance of selecting suitable models for market assessment, providing a valuable primer for both wine operators and technologists.</div>
-</details>
-</div>
-<div class="pub-row">
-<details>
-<summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Cite (APA)</summary>
-<div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#f9f9f9;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Chiaradia, F. (2026). "Measuring Technological Similarity in the Wine Industry". <em>Journal of Wine Economics</em>, pp. 1–28. doi:10.1017/jwe.2025.10102.</div>
-</details>
-</div>
-</div>
-</div>
-</div>
-</div>
+</div><div class="pub-row"><details style="margin-top:6px;"><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Abstract</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#fbfce8;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Technological similarity enables wine operators to share best practices, benchmark against industry standards, and identify new areas of innovation. Despite this, measuring similarity is notoriously challenging. In this paper, I use sentence embeddings on wine patent data to show how similarity compares across different models. I validate the results both internally and externally, showing large discrepancies in annual trends. The results underscore the importance of selecting suitable models for market assessment, providing a valuable primer for both wine operators and technologists.</div></details></div><div class="pub-row"><details><summary style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Cite (APA)</summary><div style="font-family:'JetBrains Mono',monospace;font-size:0.65rem;color:#555;background:#f9f9f9;border:1px solid #eee;border-radius:2px;padding:8px 10px;margin-top:4px;line-height:1.7;">Chiaradia, F. (2026). "Measuring Technological Similarity in the Wine Industry". <em>Journal of Wine Economics</em>, pp. 1–28. doi:10.1017/jwe.2025.10102.</div>
+</details></div></div></div></div></div>
 
 <div class="section-cmd"><span class="ps"></span> Work in Progress</div>
 <div class="pub-list">
