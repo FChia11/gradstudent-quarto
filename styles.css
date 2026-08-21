@@ -1336,15 +1336,9 @@ body.section-research img {
 }
 
 .pub-link.featured {
-  font-family: var(--mono);
-  font-size: 0.65rem;
   color: #8a6d1d;
-  text-decoration: none;
-  border: 1px solid #e6d9a8;
+  border-color: #e6d9a8;
   background: #fbfce8;
-  padding: 0.18rem 0.5rem;
-  letter-spacing: 0.02em;
-  transition: all 0.15s ease;
 }
 
 .pub-link.featured:hover {
