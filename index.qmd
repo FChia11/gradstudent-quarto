@@ -78,13 +78,11 @@ Prior to starting the Ph.D., I worked as a market analyst and economic researche
 <div class="pub-list">
 
 <div class="pub-item">
-  <div class="pub-status">2026-08</div>
-  <div class="pub-body">
-    <span class="pub-flag">new</span><strong>Measuring Technological Similarity in the Wine Industry</strong> is now published in the <em>Journal of Wine Economics</em>.
-    <a href="https://doi.org/10.1017/jwe.2025.10102" target="_blank">Read the paper here</a>.
-    For Italian readers, more accessible versions are available <a href="https://www.ilgiornale.it/news/retrogusto/linnovazione-nel-vigneto-condivisa-in-europa-differente-nel-nuovo-mondo/" target="_blank">here</a> and <a href="https://winenews.it/it/linnovazione-del-vino-segue-due-strade-piu-standard-in-europa-e-piu-diversificata-nel-nuovo-mondo_599598/" target="_blank">here</a>.
-    For Chinese readers, another accessible version is available <a href="https://www.winesinfo.com/html/2026/8/4-89177.html" target="_blank">here</a>.
-  </div>
+<div class="pub-status">2026-08</div>
+<div class="pub-body">
+<span class="pub-flag">new</span><strong>Measuring Technological Similarity in the Wine Industry</strong> is now published in the <em>Journal of Wine Economics</em>. <a href="https://doi.org/10.1017/jwe.2025.10102" target="_blank">Read the paper here</a>. For Italian readers, more accessible versions are available <a href="https://www.ilgiornale.it/news/retrogusto/linnovazione-nel-vigneto-condivisa-in-europa-differente-nel-nuovo-mondo/" target="_blank">here</a> and <a href="https://winenews.it/it/linnovazione-del-vino-segue-due-strade-piu-standard-in-europa-e-piu-diversificata-nel-nuovo-mondo_599598/" target="_blank">here</a>.
+For Chinese readers, another accessible version is available <a href="https://www.winesinfo.com/html/2026/8/4-89177.html" target="_blank">here</a>.
+</div>
 </div>
 
 <div class="pub-item">
