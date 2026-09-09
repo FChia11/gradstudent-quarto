@@ -3,7 +3,7 @@ title: "Francesca Chiaradia"
 pagetitle: "Francesca Chiaradia"
 subtitle: |
   Ph.D. Researcher in Economics
-image: assets/images/avatar.jpg
+image: assets/images/AVATAR.PNG
 page-layout: full
 grid:
       body-width: 1400px
