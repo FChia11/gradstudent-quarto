@@ -68,11 +68,11 @@ text-underline-offset: 2px;
 <div class="section-cmd"><span class="ps"></span> Bio</div>
 I am a Research Associate at the [El-Erian Institute of Behavioural Economics and Policy](https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/) at the [University of Cambridge](https://www.cam.ac.uk/), and a Postdoctoral Research Associate at Queens’ College.
 
-My research examines how policy, institutions, and information shape technological change and behaviour. I use quasi-experimental methods, natural language processing, and other computational approaches to study questions in innovation and public economics. My current work focuses on intellectual property, public procurement, and sustainable innovation.
+My research examines how policy, institutions, and information shape technological change and behaviour. I use quasi-experimental methods and natural language processing to study questions in innovation and public economics. My current work focuses on intellectual property, public procurement, and sustainable innovation.
 
 I received my PhD in Economics from the [University of St Andrews](https://www.st-andrews.ac.uk/), where I was supervised by [Prof. Andy Zapechelnyuk](https://www.ed.ac.uk/profile/professor-andy-zapechelnyuk), [Prof. David A. Jaeger](https://research-portal.st-andrews.ac.uk/en/persons/david-a-jaeger/), and [Dr Min Zhang](https://research-portal.st-andrews.ac.uk/en/persons/min-zhang/). Before beginning my doctoral studies, I worked as a market analyst and economic researcher.
 
-I also write about the history of invention, with particular attention to women whose contributions have often been overlooked. [This page](posts/memory.html) presents a selection of women patentees active between 1850 and 1950.
+I also write about the history of invention, with a particular interest in women whose contributions have often been overlooked. [This page](posts/memory.html) presents a selection of women patentees active between 1850 and 1950.
 
 [📇 Download my vCard](assets/vcard/f-chiaradia.vcf){download="f-chiaradia.vcf"}
 
