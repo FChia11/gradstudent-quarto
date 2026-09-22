@@ -2,7 +2,7 @@
 title: "Francesca Chiaradia"
 pagetitle: "Francesca Chiaradia"
 subtitle: |
-  Ph.D. Researcher in Economics
+  Research Associate<br>El-Erian Institute<br>University of Cambridge
 image: assets/images/AVATAR.PNG
 page-layout: full
 grid:
@@ -55,7 +55,7 @@ text-underline-offset: 2px;
 .jm-bar a:hover { color: #166534; text-decoration-color: #16a34a; }
 </style>
 
-<div class="prompt-line"><span class="ps1">fc73</span>@<span class="host">st-andrews.ac.uk</span><span class="cursor"></span></div>
+<div class="prompt-line"><span class="ps1">f.chiaradia</span>@<span class="host">.jbscam.ac.uk</span><span class="cursor"></span></div>
 
 <div class="prompt-line">
   Innovation <i class="fas fa-lightbulb"></i>
@@ -66,11 +66,13 @@ text-underline-offset: 2px;
 </div>
 
 <div class="section-cmd"><span class="ps"></span> Bio</div>
-I recently completed my Ph.D. in Economics at the [University of St Andrews](https://www.st-andrews.ac.uk/). My doctoral research was supervised by [Prof. Andy Zapechelnyuk](https://www.ed.ac.uk/profile/professor-andy-zapechelnyuk) (The University of Edinburgh), [Prof. David A. Jaeger](https://research-portal.st-andrews.ac.uk/en/persons/david-a-jaeger/) (University of St Andrews), and [Dr. Min Zhang](https://research-portal.st-andrews.ac.uk/en/persons/min-zhang/) (University of St Andrews). In the Fall 2026, I will join the [El-Erian Institute of Behavioural Economics and Policy](https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/) at the [University of Cambridge](https://www.cam.ac.uk/) as a Research Associate. 
+I am a Research Associate at the [El-Erian Institute of Behavioural Economics and Policy](https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/) at the [University of Cambridge](https://www.cam.ac.uk/), and a Postdoctoral Research Associate at Queens’ College.
 
-In my work, I combine quasi-experimental methods with natural language processing to examine how creativity and invention can be made more equitable and sustainable. Beyond discussing research, <a href="posts/memory.html">this page</a> highlights inventions of women patentees from 1850 to 1950 and their contributions to technological development.
+My research examines how policy, institutions, and information shape technological change and behaviour. I use quasi-experimental methods, natural language processing, and other computational approaches to study questions in innovation and public economics. My current work focuses on intellectual property, public procurement, and sustainable innovation.
 
-Prior to starting the Ph.D., I worked as a market analyst and economic researcher.
+I received my PhD in Economics from the [University of St Andrews](https://www.st-andrews.ac.uk/), where I was supervised by [Prof. Andy Zapechelnyuk](https://www.ed.ac.uk/profile/professor-andy-zapechelnyuk), [Prof. David A. Jaeger](https://research-portal.st-andrews.ac.uk/en/persons/david-a-jaeger/), and [Dr Min Zhang](https://research-portal.st-andrews.ac.uk/en/persons/min-zhang/). Before beginning my doctoral studies, I worked as a market analyst and economic researcher.
+
+I also write about the history of invention, with particular attention to women whose contributions have often been overlooked. [This page](posts/memory.html) presents a selection of women patentees active between 1850 and 1950.
 
 [📇 Download my vCard](assets/vcard/f-chiaradia.vcf){download="f-chiaradia.vcf"}
 
