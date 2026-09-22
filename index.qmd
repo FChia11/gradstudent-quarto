@@ -55,7 +55,7 @@ text-underline-offset: 2px;
 .jm-bar a:hover { color: #166534; text-decoration-color: #16a34a; }
 </style>
 
-<div class="prompt-line"><span class="ps1">f.chiaradia</span>@<span class="host">.jbscam.ac.uk</span><span class="cursor"></span></div>
+<div class="prompt-line"><span class="ps1">f.chiaradia</span>@<span class="host">jbs.cam.ac.uk</span><span class="cursor"></span></div>
 
 <div class="prompt-line">
   Innovation <i class="fas fa-lightbulb"></i>
