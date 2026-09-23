@@ -86,7 +86,7 @@ I also write about the history of invention, with a keen interest in women whose
 
 <div class="pub-item">
   <div class="pub-status">2026-09</div>
-  <div class="pub-body"><span class="pub-flag">new</span> Now a member of the <a href="https://scholars.org/scholar/francesca-chiaradia" target="_blank" rel="noopener noreferrer">Scholars Strategy Network</a>.Scholars Strategy Network. Here's a <a href="https://scholars.org/contribution/small-business-size-standards" target="_blank" rel="noopener noreferrer">contribution on small business size standards</a>.</div>
+  <div class="pub-body"><span class="pub-flag">new</span> Now a member of the <a href="https://scholars.org/scholar/francesca-chiaradia" target="_blank" rel="noopener noreferrer">Scholars Strategy Network</a>. Here's a <a href="https://scholars.org/contribution/small-business-size-standards" target="_blank" rel="noopener noreferrer">contribution on small business size standards</a>.</div>
 </div>
 
 <div class="pub-item">
