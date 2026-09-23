@@ -91,8 +91,16 @@ I also write about the history of invention, with a keen interest in women whose
 
 <div class="pub-item">
   <div class="pub-status">2026-09</div>
-  <div class="pub-body"><span class="pub-flag">new</span> Delighted to have joined the <a href="https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/" target="_blank">El-Erian Institute of Behavioural Economics and Policy</a> at <a href="https://www.jbs.cam.ac.uk/"target="_blank">Cambridge Judge Business School</a> as a Research Associate.</div>
+  <div class="pub-body"><span class="pub-flag">new</span> Delighted to have joined the <a href="https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/" target="_blank">El-Erian Institute of Behavioural Economics and Policy</a> at <a href="https://www.jbs.cam.ac.uk/"target="_blank">Cambridge Judge Business School</a> as a Research Associate! 🎉</div>
 </div>
+
+<div class="pub-item">
+<div class="pub-status"></div>
+<div class="pub-body">
+<details>
+<summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary>
+
+<div style="margin-top:4px;">
 
 <div class="pub-item">
 <div class="pub-status">2026-08</div>
@@ -115,14 +123,6 @@ I also write about the history of invention, with a keen interest in women whose
 <div class="pub-status">2026-06</div>
 <div class="pub-body">Awarded the <a href="https://stleonardscollege.st-andrews.ac.uk/funding/st-leonards-college-postgraduate-travel-award/" target="_blank">STLC travel award</a>.</div>
 </div>
-
-<div class="pub-item">
-<div class="pub-status"></div>
-<div class="pub-body">
-<details>
-<summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary>
-
-<div style="margin-top:4px;">
 
 <div class="pub-item">
 <div class="pub-status">2026-06</div>
