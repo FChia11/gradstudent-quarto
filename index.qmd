@@ -80,6 +80,29 @@ I also write about the history of invention, with a keen interest in women whose
 <div class="pub-list">
 
 <div class="pub-item">
+  <div class="pub-status">2026-11</div>
+  <div class="pub-body"><span class="pub-flag">new</span> Nominated for associate membership of St Leonard’s College, University of St Andrews.</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-status">2026-11</div>
+  <div class="pub-body"><span class="pub-flag">new</span> Nominated for membership of the Economic and Social Research Council (ESRC) Peer Review College.</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-status">2026-10</div>
+  <div class="pub-body"><span class="pub-flag">new</span> My <em>lavoce.info</em> article on green public procurement and SMEs was featured by ALI – Autonomie Locali Italiane. Read it here: <a href="https://aliautonomie.it/2026/10/08/appalti-pubblici-la-proposta-della-commissione-ue-piu-green-ma-senza-escludere-le-pmi-un-intervento-su-lavoce-info/" target="_blank" rel="noopener noreferrer" aria-label="ALI feature">🔗</a>.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-status"></div>
+<div class="pub-body">
+<details>
+<summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary>
+
+<div style="margin-top:4px;">
+
+<div class="pub-item">
   <div class="pub-status">2026-09</div>
   <div class="pub-body"><span class="pub-flag">new</span> New article live at <em>lavoce.info</em>. Read it here: <a href="https://lavoce.info/archives/112762/appalti-pubblici-piu-green-ma-senza-escludere-le-pmi/" target="_blank" rel="noopener noreferrer" aria-label="Read the lavoce.info article">🔗</a>.</div>
 </div>
@@ -93,14 +116,6 @@ I also write about the history of invention, with a keen interest in women whose
   <div class="pub-status">2026-09</div>
   <div class="pub-body"><span class="pub-flag">new</span> Delighted to have joined the <a href="https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/" target="_blank">El-Erian Institute of Behavioural Economics and Policy</a> at <a href="https://www.jbs.cam.ac.uk/"target="_blank">Cambridge Judge Business School</a> as a Research Associate! 🎉</div>
 </div>
-
-<div class="pub-item">
-<div class="pub-status"></div>
-<div class="pub-body">
-<details>
-<summary style="font-family:'JetBrains Mono',monospace;font-size:0.7rem;color:#888;cursor:pointer;letter-spacing:0.03em;">Show Earlier Entries</summary>
-
-<div style="margin-top:4px;">
 
 <div class="pub-item">
 <div class="pub-status">2026-08</div>
