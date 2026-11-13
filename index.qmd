@@ -104,17 +104,17 @@ I also write about the history of invention, with a keen interest in women whose
 
 <div class="pub-item">
   <div class="pub-status">2026-09</div>
-  <div class="pub-body"><span class="pub-flag">new</span> New article live at <em>lavoce.info</em>. Read it here: <a href="https://lavoce.info/archives/112762/appalti-pubblici-piu-green-ma-senza-escludere-le-pmi/" target="_blank" rel="noopener noreferrer" aria-label="Read the lavoce.info article">🔗</a>.</div>
+  <div class="pub-body">New article live at <em>lavoce.info</em>. Read it here: <a href="https://lavoce.info/archives/112762/appalti-pubblici-piu-green-ma-senza-escludere-le-pmi/" target="_blank" rel="noopener noreferrer" aria-label="Read the lavoce.info article">🔗</a>.</div>
 </div>
 
 <div class="pub-item">
   <div class="pub-status">2026-09</div>
-  <div class="pub-body"><span class="pub-flag">new</span> Now a member of the <a href="https://scholars.org/scholar/francesca-chiaradia" target="_blank" rel="noopener noreferrer">Scholars Strategy Network</a>. Here's a <a href="https://scholars.org/contribution/small-business-size-standards" target="_blank" rel="noopener noreferrer">contribution on small business size standards</a>.</div>
+  <div class="pub-body">Now a member of the <a href="https://scholars.org/scholar/francesca-chiaradia" target="_blank" rel="noopener noreferrer">Scholars Strategy Network</a>. Here's a <a href="https://scholars.org/contribution/small-business-size-standards" target="_blank" rel="noopener noreferrer">contribution on small business size standards</a>.</div>
 </div>
 
 <div class="pub-item">
   <div class="pub-status">2026-09</div>
-  <div class="pub-body"><span class="pub-flag">new</span> Delighted to have joined the <a href="https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/" target="_blank">El-Erian Institute of Behavioural Economics and Policy</a> at <a href="https://www.jbs.cam.ac.uk/"target="_blank">Cambridge Judge Business School</a> as a Research Associate! 🎉</div>
+  <div class="pub-body">Delighted to have joined the <a href="https://www.jbs.cam.ac.uk/centres/el-erian-behavioural-economics/" target="_blank">El-Erian Institute of Behavioural Economics and Policy</a> at <a href="https://www.jbs.cam.ac.uk/"target="_blank">Cambridge Judge Business School</a> as a Research Associate! 🎉</div>
 </div>
 
 <div class="pub-item">
