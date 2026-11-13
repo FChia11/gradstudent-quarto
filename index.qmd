@@ -81,17 +81,17 @@ I also write about the history of invention, with a keen interest in women whose
 
 <div class="pub-item">
   <div class="pub-status">2026-11</div>
-  <div class="pub-body"><span class="pub-flag">new</span> Nominated for associate membership of St Leonard’s College, University of St Andrews.</div>
-</div>
-
-<div class="pub-item">
-  <div class="pub-status">2026-11</div>
-  <div class="pub-body"><span class="pub-flag">new</span> Nominated for membership of the Economic and Social Research Council (ESRC) Peer Review College.</div>
+  <div class="pub-body"><span class="pub-flag">new</span> Delighted to have been nominated to join the ESRC Peer Review College!</div>
 </div>
 
 <div class="pub-item">
   <div class="pub-status">2026-10</div>
-  <div class="pub-body"><span class="pub-flag">new</span> My <em>lavoce.info</em> article on green public procurement and SMEs was featured by ALI – Autonomie Locali Italiane. Read it here: <a href="https://aliautonomie.it/2026/10/08/appalti-pubblici-la-proposta-della-commissione-ue-piu-green-ma-senza-escludere-le-pmi-un-intervento-su-lavoce-info/" target="_blank" rel="noopener noreferrer" aria-label="ALI feature">🔗</a>.</div>
+  <div class="pub-body"><span class="pub-flag">new</span> Great to see ALI - Autonomie Locali Italiane share my <em>lavoce.info</em> article on green public procurement and SMEs. Read it here: <a href="https://aliautonomie.it/2026/10/08/appalti-pubblici-la-proposta-della-commissione-ue-piu-green-ma-senza-escludere-le-pmi-un-intervento-su-lavoce-info/" target="_blank" rel="noopener noreferrer" aria-label="Read the ALI feature">🔗</a>.</div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-status">2026-11</div>
+  <div class="pub-body"><span class="pub-flag">new</span> Happy to have been nominated for associate membership of St Leonard’s College - a lovely way to stay connected to St Andrews!</div>
 </div>
 
 <div class="pub-item">
