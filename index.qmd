@@ -81,7 +81,10 @@ I also write about the history of invention, with a keen interest in women whose
 
 <div class="pub-item">
   <div class="pub-status">2026-11</div>
-  <div class="pub-body"><span class="pub-flag">new</span> Delighted to have been nominated to join the <a href="https://www.ukri.org/councils/esrc/guidance-for-reviewers/peer-review-college/" target="_blank" rel="noopener noreferrer">ESRC Peer Review College</a></div>
+  <div class="pub-body"><span class="pub-flag">new</span> elighted to have been nominated to join the
+  <a href="https://www.ukri.org/councils/esrc/guidance-for-reviewers/peer-review-college/"
+     target="_blank"
+     rel="noopener noreferrer">ESRC Peer Review College</a>.</div>
 </div>
 
 <div class="pub-item">
