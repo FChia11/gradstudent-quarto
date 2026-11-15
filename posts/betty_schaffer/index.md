@@ -4,7 +4,7 @@ categories:
 featured: true
 image: featured.png
 projects: []
-subtitle: "Kleiderraffer"
+subtitle: "Kleiderraffer."
 summary: ""
 tags:
 - Other Fields

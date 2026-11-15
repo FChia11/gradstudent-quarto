@@ -4,7 +4,7 @@ categories:
 featured: true
 image: featured.png
 projects: []
-subtitle: "Spoon-Holder"
+subtitle: "Spoon-Holder."
 summary: ""
 tags:
 - Other Fields

@@ -4,7 +4,7 @@ categories:
 featured: true
 image: featured.png
 projects: []
-subtitle: "Bandeau"
+subtitle: "Bandeau."
 summary: ""
 tags:
 - Other Fields
