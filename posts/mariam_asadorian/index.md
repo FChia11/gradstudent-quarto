@@ -13,7 +13,7 @@ tags:
 application_date: 1930-03-24
 issuance_date: 1931-05-26
 initial: M
-title: "Mariam E. Asadorian, US1807271A"
+title: "Mariam E. Asadoorian, US1807271A"
 ---
 On March 24, 1930, Mariam E. Asadoorian of Pasadena, California, filed a patent application for a frying pan attachment designed to protect the cook and stove from spattering grease. Her invention used a sloping lid to guide grease into a trough around the base, where it could be collected and poured away after cooking.
 
